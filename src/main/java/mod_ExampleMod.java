@@ -20,6 +20,6 @@ public class mod_ExampleMod extends BaseMod {
     }
 
     public String Description() {
-        return "Allows items to carry custom NBT data.";
+        return "Lorem ipsum dolor sit amet";
     }
 }
